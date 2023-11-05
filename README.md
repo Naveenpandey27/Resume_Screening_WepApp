@@ -3,6 +3,9 @@ I designed and built a user-friendly web application using Python and Streamlit.
 
 # Resume Classification using Python
 
+![resumesc](https://github.com/Naveenpandey27/Resume_Screening_WepApp/assets/66298494/4b51aab1-329a-438b-b902-4fe7deb49c4c)
+
+
 This Python code is designed to classify resumes into different categories using the K-Nearest Neighbors (KNN) algorithm. The code processes the resume text, applies TF-IDF (Term Frequency-Inverse Document Frequency) vectorization, and trains a KNN classifier for the task. Additionally, it allows you to make category predictions for new resumes. This README provides a brief overview of the code and how to use it.
 
 ## Getting Started
